@@ -99,13 +99,16 @@
   font-weight: 500;
 }
 
-.about-container {
+.about-container,
+.interests-container {
   line-height: 1.2em;
   text-align: left;
   width: 75%;
   margin: auto;
 }
 
-.about-container > p {
+.about-container > p,
+.interests-container > p {
   margin-top: -10px;
 }
+
